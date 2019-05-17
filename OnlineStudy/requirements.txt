@@ -1,4 +1,4 @@
-social_django
+social-auth-app-django
 django
 djangorestframework
 redis
@@ -7,5 +7,5 @@ alipay-sdk-python
 django-cors-headers
 numpy
 pandas
-matplotlab
+matplotlib
 autopep8
